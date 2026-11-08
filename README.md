@@ -19,10 +19,7 @@ in an ECS task definition, and run it through an ECS service.
 -   ECS cluster, task-definition and service screens.
 -   Browser test showing an Express welcome page on port `3000`.
 
-**Evidence boundary:** The supplied screenshots do not show a completed
-Amazon ECR push or AWS CodePipeline execution. The detailed DOCX guide
-explains those as next-stage implementation steps rather than claiming
-they were completed.
+
 
 ## Architecture
 
